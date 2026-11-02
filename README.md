@@ -41,7 +41,7 @@
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Magical004&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true"><img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Magical004&bg_color=ffffff&color=0891b2&line=7c3aed&point=0f172a&area=true&area_color=7c3aed&hide_border=true" alt="Contribution activity graph" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Magical004/Magical004/output/activity-dark.svg"><img src="https://raw.githubusercontent.com/Magical004/Magical004/output/activity-light.svg" width="96%" alt="Contributions over the last 60 days" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg"><img src="assets/divider-light.svg" width="100%" alt="" /></picture>
 
