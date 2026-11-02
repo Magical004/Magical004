@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120" role="img" aria-label="Danish Mahajan, aspiring software developer">
+<text x="2" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Danish Mahajan</text>
+<rect x="2" y="68" width="0" height="3" rx="1.5" fill="#2f81f7"><animate attributeName="width" values="0;48;48" keyTimes="0;0.078;1" dur="9s" repeatCount="indefinite"/></rect>
+<clipPath id="t"><rect x="2" y="70" width="0" height="30"><animate attributeName="width" values="0;0;324;324" keyTimes="0;0.089;0.400;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<text x="2" y="92" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="20" fill="#8b949e" clip-path="url(#t)" xml:space="preserve">aspiring software developer</text>
+<rect y="75" width="2" height="22" fill="#2f81f7"><animate attributeName="x" values="2;2;328;328" keyTimes="0;0.089;0.400;1" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.5;0.75;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
