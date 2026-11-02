@@ -1,5 +1,5 @@
 <!--
-  GITHUB PROFILE README — MAGICAL004  (v2: Neon Terminal / Tokyo Night)
+  GITHUB PROFILE README — Magical004  (v2: Neon Terminal / Tokyo Night)
   Setup: repo named "Magical004", add this as README.md.
   Search for "EDIT:" to find everything worth personalizing.
   Optional snake animation: see the comment block near the bottom.
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f172a,40:312e81,70:7c3aed,100:00d9ff&text=MAGICAL004&fontColor=ffffff&fontSize=68&fontAlignY=40&animation=twinkling&stroke=22d3ee&strokeWidth=1&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&descSize=18&descAlignY=62" alt="MAGICAL004 — Build, Break, Learn, Repeat" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f172a,40:312e81,70:7c3aed,100:00d9ff&text=Magical004&fontColor=ffffff&fontSize=68&fontAlignY=40&animation=twinkling&stroke=22d3ee&strokeWidth=1&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&descSize=18&descAlignY=62" alt="Magical004 — Build, Break, Learn, Repeat" />
 
 <a href="https://github.com/Magical004"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=56&lines=%24+whoami+%E2%86%92+Magical004;%3E+I+turn+ideas+into+software;%3E+Building+for+the+web+and+beyond;%3E+Automating+the+boring+stuff;%3E+Always+curious.+Always+shipping." alt="Animated developer introduction" /></a>
 
